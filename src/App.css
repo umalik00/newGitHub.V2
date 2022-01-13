@@ -1,0 +1,22 @@
+form{
+    margin-top: 3rem;
+    margin-left: 43%;
+}
+
+input{
+    height:3rem;
+    width:10rem;
+}
+
+button{
+    width:10rem;
+}
+
+
+
+.card{
+    width:20rem;
+    display:inline-flex;
+    margin:1rem;
+    border:3px solid black
+}
